@@ -63,3 +63,20 @@ The pandemic simulation project is designed to illustrate the spread and impact 
 - **Space:** Pause or resume the simulation.
 
 
+## TODO
+
+### Ideas for Enhancements
+
+- Implement mask-wearing behavior to modify the probability of disease transmission.
+- Introduce a vaccination mechanism that directly immunizes individuals against the disease.
+- Include social distancing measures to affect the probability of transmission.
+- Enhance the demonstration by adding a GIF showcasing the simulation in action.
+
+### Tasks
+
+- [ ] Implement mask-wearing behavior and adjust transmission probabilities accordingly.
+- [ ] Integrate a vaccination mechanism to directly immunize individuals.
+- [ ] Add parameters for social distancing and modify transmission probabilities accordingly.
+- [ ] Create a GIF demonstration showcasing the simulation in action.
+
+Once these enhancements and tasks are completed, the pandemic simulation will be more comprehensive and visually engaging, providing a better understanding of disease spread dynamics and the effectiveness of various interventions.
