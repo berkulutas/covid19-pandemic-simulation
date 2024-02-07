@@ -39,7 +39,7 @@ The pandemic simulation project is designed to illustrate the spread and impact 
 2. Install the required dependencies using pip:
 
     ```
-    python pandemic_simulation.py
+    pip install -r requirements.txt
     ```
 
 
