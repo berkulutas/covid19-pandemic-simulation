@@ -3,7 +3,11 @@
 This project is a pandemic simulation built using Python and the Pygame library. It simulates the spread of a contagious disease among a population of individuals within a confined area, displaying various stages of infection, recovery, immunity, and unfortunately, mortality.
 
 ## Demo
-[![Watch the demo video]](demo/demo.mp4)
+[![Watch the demo video](https://img.youtube.com/vi/gJ3VowEL8V4/hqdefault.jpg)](https://www.youtube.com/embed/gJ3VowEL8V4)
+
+[<img src="https://img.youtube.com/vi/gJ3VowEL8V4/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/gJ3VowEL8V4)
+
 
 This plot illustrates the spread of the pandemic over time in the simulation. It shows the number of infected individuals and cumulative deaths as the simulation progresses.
 
